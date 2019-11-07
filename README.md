@@ -18,7 +18,7 @@
 Скачайте файлы с github или клонируйте его c помощью команды:
 
 ```bash
-git clone https://github.com/alexsoin/gulp-start-project.git
+git clone https://github.com/borodatych/gulp-start-project.git
 ```
 
 ### 2. Установки зависимостей проекта
