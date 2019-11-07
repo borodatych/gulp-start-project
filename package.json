@@ -1,12 +1,12 @@
 {
   "name": "gulp-start-project",
-  "version": "1.0.1",
-  "description": "Gulp start project - Окружение для разработки веб-проектов",
-  "author": "alexsoin",
+  "version": "1.1.0",
+  "description": "Gulp Start Project - Окружение для разработки веб-проектов",
+  "author": "borodatych",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/alexsoin/gulp-start-projet.git"
+    "url": "git://github.com/borodatych/gulp-start-projet.git"
   },
   "dependencies": {
     "jquery": "^3.3.1",
